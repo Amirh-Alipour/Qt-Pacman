@@ -1,0 +1,32 @@
+
+# Qt Creator user-specific settings
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build/
+debug/
+release/
+cmake-build-*/
+
+# Generated files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
